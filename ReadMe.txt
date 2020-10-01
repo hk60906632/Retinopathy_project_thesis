@@ -3,11 +3,11 @@ The executable is in:
 dist/kevin_retinopathy_software/kevin_retinopathy_software.exe
 
 
-double click and please wait a moment, it may takes a few seconds
+Double click and please hold on a second, it may takes few seconds
 ########################################################################
-The source code of this software is in SoftwareSourceCode.
+The source code of this Software is in SoftwareSourceCode.
 
-It has the two .ui file, the python code and the pyinstaller .spec file
+It has two .ui file, the python code and the pyinstaller .spec file
 
 
 ########################################################################
